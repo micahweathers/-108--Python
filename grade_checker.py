@@ -1,5 +1,6 @@
 score = int(input("Enter your score (Between 1-100): "))
 
+
 if score >= 90:
     print("Grade: A")
 

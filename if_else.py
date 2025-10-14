@@ -6,7 +6,7 @@ age = 28
 if age < 100:
     if age < 21:
         print("You can't be here.")
-    else:
+    else: 
         print("Welcome.")
 
 elif age == 100:

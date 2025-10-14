@@ -68,7 +68,7 @@ print(6 in x)
 print(6 not in x)
 
 """
-#List
+#List 
 mix_list = [1, "Apple", 3.5, True] # Prints everything in list (Kinda just names as things are catalogged by index)
 print(mix_list)
 
